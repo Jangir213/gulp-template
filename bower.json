@@ -1,0 +1,6 @@
+{
+  "name": "notify",
+  "dependencies": {
+    "normalize-css": "normalize.css#^4.0.0"
+  }
+}
