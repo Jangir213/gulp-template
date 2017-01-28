@@ -1,6 +1,6 @@
 {
-  "name": "notify",
+  "name": "gulp-template",
   "dependencies": {
-    "normalize-css": "normalize.css#^4.0.0"
+    "HTML5-Reset": "^2.1.3"
   }
 }
